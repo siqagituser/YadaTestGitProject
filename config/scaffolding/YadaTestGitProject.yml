@@ -12,8 +12,3 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: prabhakarsag
   gitBranch: main
-- name: PackY
-  gitServerName: SIQAPsurGit
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: prabhakarsag
-  gitBranch: main
