@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: YadaTestGitProject
+  gitServerName: siqagituser
+  gitUrl: https://github.com/siqagituser
+  gitUsername: siqagituser
+  gitBranch: main
