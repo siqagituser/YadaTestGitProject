@@ -8,17 +8,18 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
+    <value name="PackY">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">28</value>
+  <value name="build">29</value>
   <null name="description"/>
   <value name="created_date">17-10-2024 08:23:08 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-10-17T09:58:51.326126856Z</value>
+  <value name="lastUpdated">2024-10-17T09:59:03.253982923Z</value>
   <value name="wmProjectId">fl2c39abc94915febd8e9a86</value>
   <value name="creator">siqa admin</value>
 </Values>
